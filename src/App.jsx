@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Components/Navbar.jsx'; // Correct path to Navbar
-import HeroSection from './Components/heroSection.jsx';
+import HeroSection from './Components/HeroSection.jsx';
 import FeatureSection from './Components/FeatureSection.jsx';
 import WorkFlow from './Components/WorkFlow.jsx';
 import Pricing from './Components/Pricing.jsx';
